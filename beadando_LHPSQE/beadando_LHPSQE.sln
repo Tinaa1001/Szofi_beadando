@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "beadando_LHPSQE", "beadando_LHPSQE\beadando_LHPSQE.csproj", "{97BDEA3F-279A-49D2-8A82-11EE29A35043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szenzorkonyvtar", "Szenzorkonyvtar\Szenzorkonyvtar.csproj", "{C951D741-E670-45A4-A91C-51A471657B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97BDEA3F-279A-49D2-8A82-11EE29A35043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BDEA3F-279A-49D2-8A82-11EE29A35043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BDEA3F-279A-49D2-8A82-11EE29A35043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BDEA3F-279A-49D2-8A82-11EE29A35043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C951D741-E670-45A4-A91C-51A471657B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C951D741-E670-45A4-A91C-51A471657B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C951D741-E670-45A4-A91C-51A471657B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C951D741-E670-45A4-A91C-51A471657B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D00F778-8155-4181-8DFA-6A37D7786A65}
+	EndGlobalSection
+EndGlobal
