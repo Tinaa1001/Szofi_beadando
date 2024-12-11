@@ -4,3 +4,9 @@ D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzo
 D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.csproj.CoreCompileInputs.cache
 D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.dll
 D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.pdb
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\Szenzorkonyvtar\bin\Debug\Szenzorkonyvtar.dll
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\Szenzorkonyvtar\bin\Debug\Szenzorkonyvtar.pdb
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.csproj.AssemblyReference.cache
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.csproj.CoreCompileInputs.cache
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.dll
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\Szenzorkonyvtar\obj\Debug\Szenzorkonyvtar.pdb

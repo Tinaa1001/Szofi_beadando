@@ -14,3 +14,19 @@ D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Szenzo
 D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Szenzorkonyvtar.pdb
 D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Newtonsoft.Json.dll
 D:\AMK\3. félév HALADÓ SZOFI\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\beadando_LHPSQE.exe.config
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\beadando_LHPSQE.exe
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\beadando_LHPSQE.pdb
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\LiteDB.dll
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\System.Buffers.dll
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Szenzorkonyvtar.dll
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Szenzorkonyvtar.pdb
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\LiteDB.xml
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\bin\Debug\System.Buffers.xml
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\obj\Debug\beadando_LHPSQE.csproj.AssemblyReference.cache
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\obj\Debug\beadando_LHPSQE.csproj.CoreCompileInputs.cache
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\obj\Debug\beadando.7C7830C1.Up2Date
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\obj\Debug\beadando_LHPSQE.exe
+C:\Users\User\Szofi_beadando\beadando_LHPSQE\beadando_LHPSQE\obj\Debug\beadando_LHPSQE.pdb

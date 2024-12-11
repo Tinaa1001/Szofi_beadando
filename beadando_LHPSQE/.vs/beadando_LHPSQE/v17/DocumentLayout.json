@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97BDEA3F-279A-49D2-8A82-11EE29A35043}|beadando_LHPSQE\\beadando_LHPSQE.csproj|C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_lhpsqe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BDEA3F-279A-49D2-8A82-11EE29A35043}|beadando_LHPSQE\\beadando_LHPSQE.csproj|solutionrelative:beadando_lhpsqe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BDEA3F-279A-49D2-8A82-11EE29A35043}|beadando_LHPSQE\\beadando_LHPSQE.csproj|c:\\users\\user\\szofi_beadando\\beadando_lhpsqe\\beadando_lhpsqe\\linq_lekerdezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BDEA3F-279A-49D2-8A82-11EE29A35043}|beadando_LHPSQE\\beadando_LHPSQE.csproj|solutionrelative:beadando_lhpsqe\\linq_lekerdezes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BDEA3F-279A-49D2-8A82-11EE29A35043}|beadando_LHPSQE\\beadando_LHPSQE.csproj|C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_lhpsqe\\esemenykezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BDEA3F-279A-49D2-8A82-11EE29A35043}|beadando_LHPSQE\\beadando_LHPSQE.csproj|solutionrelative:beadando_lhpsqe\\esemenykezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_LHPSQE\\Program.cs",
+              "RelativeDocumentMoniker": "beadando_LHPSQE\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_LHPSQE\\Program.cs",
+              "RelativeToolTip": "beadando_LHPSQE\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:11:37.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EsemenyKezeles.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_LHPSQE\\EsemenyKezeles.cs",
+              "RelativeDocumentMoniker": "beadando_LHPSQE\\EsemenyKezeles.cs",
+              "ToolTip": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_LHPSQE\\EsemenyKezeles.cs",
+              "RelativeToolTip": "beadando_LHPSQE\\EsemenyKezeles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:33:27.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LINQ_lekerdezes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_LHPSQE\\LINQ_lekerdezes.cs",
+              "RelativeDocumentMoniker": "beadando_LHPSQE\\LINQ_lekerdezes.cs",
+              "ToolTip": "C:\\Users\\User\\Szofi_beadando\\beadando_LHPSQE\\beadando_LHPSQE\\LINQ_lekerdezes.cs",
+              "RelativeToolTip": "beadando_LHPSQE\\LINQ_lekerdezes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:31:53.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
